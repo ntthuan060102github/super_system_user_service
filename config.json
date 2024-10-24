@@ -1,0 +1,26 @@
+{
+    "relational_database": {
+        "engine": "mysql",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "username": "root",
+        "password": "123123",
+        "db_name": "super_system"
+    },
+    "redis_database": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "username": "default",
+        "password": "",
+        "db": 0
+    },
+    "mail": {
+        "host": "smtp.gmail.com",
+        "port": "587",
+        "username": "system.selina@gmail.com",
+        "password": "pwgporiahuzmfdex",
+        "use_tls": true,
+        "use_ssl": false
+    },
+    "remote_log_token": "yRzw6cV1AmFNKdmgmU6Eb8tB"
+}
